@@ -1,0 +1,5 @@
+{
+  "apiBase": "https://api.apixu.com/v1",
+  "apiHistory": "/history.json",
+  "apiKey": "key=2c9cb110d6854f6aa88150610172812"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "weather-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest-enzyme": "^4.0.2",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5",
+    "react-bootstrap-typeahead": "^2.0.2",
+    "react-dom": "^16.2.0",
+    "react-moment": "^0.6.8",
+    "react-scripts": "1.0.17",
+    "react-sizer": "^1.0.1",
+    "react-test-renderer": "^16.2.0",
+    "victory": "^0.24.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
